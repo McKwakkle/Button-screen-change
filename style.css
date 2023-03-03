@@ -3,17 +3,21 @@ h1 {
     color: grey;
 }
 
+body {
+    background-color: #CAE8DD;
+}
+
 .btn {
     padding: 30px 53px;
     margin-bottom: 2px;
     background: var(--color);
     cursor: pointer;
 }
-.btn-1 {--color: red;}
-.btn-2 {--color: purple;}
-.btn-3 {--color: green;}
-.btn-4 {--color: blue;}
-.btn-5 {--color: yellow;}
-.btn-6 {--color: brown;}
-.btn-7 {--color: orange;}
-.btn-8 {--color: black;}
+.btn-1 {--color: #E74084;}
+.btn-2 {--color: #F49998;}
+.btn-3 {--color: #F7F190;}
+.btn-4 {--color: #F9E7E5;}
+.btn-5 {--color: #0F7D7A;}
+.btn-6 {--color: #9BD5C4;}
+.btn-7 {--color: #7C56A4;}
+.btn-8 {--color: #E2A2C8;}
