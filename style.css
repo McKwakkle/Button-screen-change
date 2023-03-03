@@ -8,10 +8,12 @@ body {
 }
 
 .btn {
-    padding: 30px 53px;
+    padding: 30px 60px;
     margin-bottom: 2px;
     background: var(--color);
     cursor: pointer;
+    border-radius: 25px 25px;
+    box-shadow: 2px 5px rgba(0, 0, 0, 0.4);
 }
 .btn-1 {--color: #E74084;}
 .btn-2 {--color: #F49998;}
