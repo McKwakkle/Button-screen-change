@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: grey;
+}
+
+.btn {
+    padding: 30px 53px;
+    margin-bottom: 2px;
+    background: var(--color);
+    cursor: pointer;
+}
+.btn-1 {--color: red;}
+.btn-2 {--color: purple;}
+.btn-3 {--color: green;}
+.btn-4 {--color: blue;}
+.btn-5 {--color: yellow;}
+.btn-6 {--color: brown;}
+.btn-7 {--color: orange;}
+.btn-8 {--color: black;}
